@@ -54,10 +54,10 @@ export default {
 	],
 	"sum": 760.00,
 	"userInfo": {
-		"receiver": "张三",
-		"phoneNum": "13600001111",
-		"location": "广东省 广州市 越秀区",
-		"detailLocation": "环市东路403号1401室",
+		"receiver": "mobius",
+		"phoneNum": "15203935294",
+		"location": "浙江省 杭州市 拱墅区",
+		"detailLocation": "世纪大道2001号",
 		"defaultAddress": "switch active"
 	}
 }
